@@ -1,4 +1,4 @@
-# Hi, I'm Aldo 👋
+# Hi, I'm Aldo J 
 
 I'm a Principal AI Product Leader with 15+ years building enterprise technology products — and the last several years focused entirely on shipping agentic AI systems at scale.
 
