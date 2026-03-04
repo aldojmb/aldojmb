@@ -47,3 +47,4 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 - 💼 [linkedin.com/in/aldojmacias](https://linkedin.com/in/aldojmacias)
 - 🌐 [aldojm.com](https://aldojm.com)
 - ✍️ Writing about enterprise agentic AI on LinkedIn — follow for the **Enterprise Agentic Maturity Model (EAMM)** and more
+
