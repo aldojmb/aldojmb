@@ -1,4 +1,4 @@
-# Hi, I'm Aldo J 
+# Hi, I'm Aldo 👋
 
 I'm a Principal AI Product Leader with 15+ years building enterprise technology products — and the last several years focused entirely on shipping agentic AI systems at scale.
 
@@ -24,6 +24,7 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 |---|---|
 | [agent-factory-framework](https://github.com/aldojmb/agent-factory-framework) | End-to-end delivery framework for enterprise AI agents — 6 stages, 5 templates, decision gates |
 | [llm-selection-framework](https://github.com/aldojmb/llm-selection-framework) | Decision framework: prompting vs RAG vs fine-tuning vs agentic orchestration |
+| [delegation-ladder](https://github.com/aldojmb/delegation-ladder) | Framework for designing AI agents that earn trust progressively — 5 levels, design mandates, delegation metrics |
 | [banking-assistant-anthropic](https://github.com/aldojmb/banking-assistant-anthropic) | Conversational banking assistant with RAG + eval suite — Anthropic Claude API |
 | [llm-evals-enterprise](https://github.com/aldojmb/llm-evals-enterprise) | Claude vs GPT-4o evaluation framework — accuracy, latency, cost, guardrail compliance |
 
@@ -46,6 +47,4 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 
 - 💼 [linkedin.com/in/aldojmacias](https://linkedin.com/in/aldojmacias)
 - 🌐 [aldojm.com](https://aldojm.com)
-- ✍️ Writing about enterprise agentic AI on LinkedIn — follow for the **Enterprise Agentic Maturity Model (EAMM)** and more
-
-
+- ✍️ Writing about enterprise agentic AI — frameworks from production experience. The **Delegation Ladder**, **EAMM**, and more at [github.com/aldojmb](https://github.com/aldojmb)
