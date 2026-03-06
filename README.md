@@ -22,6 +22,7 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 
 | Repo | What it is |
 |---|---|
+| [eamm](https://github.com/aldojmb/eamm) | Enterprise Agentic Maturity Model — 7-level framework for organizational readiness for agentic AI |
 | [agent-factory-framework](https://github.com/aldojmb/agent-factory-framework) | End-to-end delivery framework for enterprise AI agents — 6 stages, 5 templates, decision gates |
 | [llm-selection-framework](https://github.com/aldojmb/llm-selection-framework) | Decision framework: prompting vs RAG vs fine-tuning vs agentic orchestration |
 | [delegation-ladder](https://github.com/aldojmb/delegation-ladder) | Framework for designing AI agents that earn trust progressively — 5 levels, design mandates, delegation metrics |
@@ -47,4 +48,4 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 
 - 💼 [linkedin.com/in/aldojmacias](https://linkedin.com/in/aldojmacias)
 - 🌐 [aldojm.com](https://aldojm.com)
-- ✍️ Writing about enterprise agentic AI — frameworks from production experience. The **Delegation Ladder**, **EAMM**, and more at [github.com/aldojmb](https://github.com/aldojmb)
+- ✍️ Writing about enterprise agentic AI from production experience — [**The Delegation Ladder**](https://github.com/aldojmb/delegation-ladder) · [**Enterprise Agentic Maturity Model (EAMM)**](https://github.com/aldojmb/eamm)
