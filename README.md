@@ -27,6 +27,7 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 | [llm-selection-framework](https://github.com/aldojmb/llm-selection-framework) | Decision framework: prompting vs RAG vs fine-tuning vs agentic orchestration |
 | [delegation-ladder](https://github.com/aldojmb/delegation-ladder) | Framework for designing AI agents that earn trust progressively — 5 levels, design mandates, delegation metrics |
 | [financial-agent-guardrails](https://github.com/aldojmb/financial-agent-guardrails) | Playbook for designing, implementing, and auditing guardrails in AI agents deployed in regulated banking environments |
+| [agentic-fraud-detection](https://github.com/aldojmb/agentic-fraud-detection) | Architecture patterns for AI agents that detect, investigate, and respond to fraud in real-time banking and payments |
 | [banking-assistant-anthropic](https://github.com/aldojmb/banking-assistant-anthropic) | Conversational banking assistant with RAG + eval suite — Anthropic Claude API |
 | [llm-evals-enterprise](https://github.com/aldojmb/llm-evals-enterprise) | Claude vs GPT-4o evaluation framework — accuracy, latency, cost, guardrail compliance |
 
@@ -49,4 +50,4 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 
 - 💼 [linkedin.com/in/aldojmacias](https://linkedin.com/in/aldojmacias)
 - 🌐 [aldojm.com](https://aldojm.com)
-- ✍️ Writing about enterprise agentic AI from production experience — [**The Delegation Ladder**](https://github.com/aldojmb/delegation-ladder) · [**Enterprise Agentic Maturity Model (EAMM)**](https://github.com/aldojmb/eamm) · [**Financial Agent Guardrails**](https://github.com/aldojmb/financial-agent-guardrails)
+- ✍️ Writing about enterprise agentic AI from production experience — [**The Delegation Ladder**](https://github.com/aldojmb/delegation-ladder) · [**EAMM**](https://github.com/aldojmb/eamm) · [**Financial Agent Guardrails**](https://github.com/aldojmb/financial-agent-guardrails) · [**Agentic Fraud Detection**](https://github.com/aldojmb/agentic-fraud-detection)
