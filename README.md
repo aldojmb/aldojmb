@@ -26,8 +26,10 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 | [agent-factory-framework](https://github.com/aldojmb/agent-factory-framework) | End-to-end delivery framework for enterprise AI agents — 6 stages, 5 templates, decision gates |
 | [llm-selection-framework](https://github.com/aldojmb/llm-selection-framework) | Decision framework: prompting vs RAG vs fine-tuning vs agentic orchestration |
 | [delegation-ladder](https://github.com/aldojmb/delegation-ladder) | Framework for designing AI agents that earn trust progressively — 5 levels, design mandates, delegation metrics |
+| [designing-for-model-uncertainty](https://github.com/aldojmb/designing-for-model-uncertainty) | Five design patterns for consumer AI products that earn durable trust — uncertainty signals, graceful degradation, recovery design |
 | [financial-agent-guardrails](https://github.com/aldojmb/financial-agent-guardrails) | Playbook for designing, implementing, and auditing guardrails in AI agents deployed in regulated banking environments |
 | [agentic-fraud-detection](https://github.com/aldojmb/agentic-fraud-detection) | Architecture patterns for AI agents that detect, investigate, and respond to fraud in real-time banking and payments |
+| [conversational-kyc-agent](https://github.com/aldojmb/conversational-kyc-agent) | End-to-end architecture for AI agents that conduct KYC onboarding conversationally — document to risk profile to approval |
 | [banking-assistant-anthropic](https://github.com/aldojmb/banking-assistant-anthropic) | Conversational banking assistant with RAG + eval suite — Anthropic Claude API |
 | [llm-evals-enterprise](https://github.com/aldojmb/llm-evals-enterprise) | Claude vs GPT-4o evaluation framework — accuracy, latency, cost, guardrail compliance |
 
@@ -50,4 +52,4 @@ Most of what I publish here is hands-on: frameworks, prototypes, and evaluation 
 
 - 💼 [linkedin.com/in/aldojmacias](https://linkedin.com/in/aldojmacias)
 - 🌐 [aldojm.com](https://aldojm.com)
-- ✍️ Writing about enterprise agentic AI from production experience — [**The Delegation Ladder**](https://github.com/aldojmb/delegation-ladder) · [**EAMM**](https://github.com/aldojmb/eamm) · [**Financial Agent Guardrails**](https://github.com/aldojmb/financial-agent-guardrails) · [**Agentic Fraud Detection**](https://github.com/aldojmb/agentic-fraud-detection)
+- ✍️ Writing about enterprise agentic AI from production experience — [**The Delegation Ladder**](https://github.com/aldojmb/delegation-ladder) · [**EAMM**](https://github.com/aldojmb/eamm) · [**Designing for Model Uncertainty**](https://github.com/aldojmb/designing-for-model-uncertainty) · [**Financial Agent Guardrails**](https://github.com/aldojmb/financial-agent-guardrails)
